@@ -1,0 +1,6 @@
+[
+    {"name":"science fiction","code":"sci-fi"},
+    {"name":"romantic comedy","code":"rom-com"}, 
+    {"name":"action","code":"action"},
+    {"name":"horror","code":"horror"}
+]
